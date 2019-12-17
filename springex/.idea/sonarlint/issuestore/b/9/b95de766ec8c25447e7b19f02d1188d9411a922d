@@ -1,0 +1,12 @@
+
+Lsquid:S1125*")Remove the literal "false" boolean value.( Ωΐÿψÿÿÿÿ8‘Ο•πο-
+Psquid:S11350"2Complete the task associated to this TODO comment.(θ¶®8ΖΥ—πο-
+\squid:UselessImportCheck
+"1Remove this unused import 'javax.servlet.Filter'.(ώι®δ8‚κπο-
+isquid:S2259("KA "NullPointerException" could be thrown; "handlerMethod" is nullable here.(°Β™°8™«¥πο-
+esquid:UselessImportCheck":Remove this unused import 'javax.servlet.ServletResponse'.(μΓΆ»8ΐ­πο-
+Fsquid:S1148>"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8Μπο-
+Hsquid:S1481/"*Remove this unused "token" local variable.(ΘΎΖ΄8ΖΥ—πο-
+Wsquid:S1854/"9Remove this useless assignment to local variable "token".(ΘΎΖ΄8ΖΥ—πο-
+dsquid:UselessImportCheck"9Remove this unused import 'javax.servlet.ServletRequest'.(λ΄αΩ8κ‰πο-
+Usquid:S1135&"2Complete the task associated to this TODO comment.(©δªϋÿÿÿÿ8™«¥πο-
